@@ -1,2 +1,5 @@
 *.fastq.gz
 
+slurm.*.out
+slurm.*.err
+
